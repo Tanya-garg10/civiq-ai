@@ -1,0 +1,6 @@
+{
+  "name": "CiviQ AI",
+  "description": "Hyperlocal community problem-solving platform utilizing multi-agent AI to verify, prioritize, and coordinate civic issue resolutions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
